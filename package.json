@@ -19,7 +19,7 @@
     "express": "^4.16.4",
     "express-validation": "^0.4.5",
     "joi": "^7.3.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.4.6",
     "morgan": "^1.9.1"
   },
